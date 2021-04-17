@@ -89,3 +89,6 @@ http://bucket02.s3.us-central-1.wasabisys.com/cdn6/viagemmaldita2.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fVhkwoITHwZmnWN2hIp2KBymA4EaXrw9mQ&usqp=CAU" group-title="terror",cabra da peste
 http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/GettheGoat.2021.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7neqEm62mFAv0BHYBgCShXwHLeOZPJZD3pQ&usqp=CAU" group-title="terror",Liga da Justiça de Zack Snyder
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/ZackSnydersJusticeLeague.2021.DUB.mp4
