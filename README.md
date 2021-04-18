@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoM2bG6wSYVVfroriWNTLs_W4EjljruYo8g&usqp=CAU" group-title="terror",Parto forçado 
 http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial1/IntoTheDark.PartoForcado.2020.DUB.mp4?token=2fc7567145330d39dccf28fed082a832
 
@@ -92,7 +91,13 @@ http://bucket02.s3.us-central-1.wasabisys.com/cdn6/viagemmaldita2.mp4
 http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/GettheGoat.2021.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7neqEm62mFAv0BHYBgCShXwHLeOZPJZD3pQ&usqp=CAU" group-title="terror",Liga da Justiça de Zack Snyder
-https://www1121.ff-03.com/token=A8QVqSqVXQ9FzryXGkdSuQ/1618779733/45.235.0.0/146/4/6c/4fc5ab9ae580d112957744569e78b6c4-720p.mp4
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/ZackSnydersJusticeLeague.2021.DUB.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyAqNA62ml-bxGJQQ_aq_OhBH9zYEQ7p4Lg&usqp=CAU" group-title="terror",A Cabana da Morte
-https://www170.ff-01.com/token=R_8hbMfusX3l7s2TPgvQNg/1618780611/45.235.0.0/133/7/f9/44259ac6a2e3f8323b7aded75692ff97-720p.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23on1aZr6mIWrOfIeCqvZ_YuijuNsFe1RwA&usqp=CAU" group-title="terror",Cabana da possessao
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/CabanadaPossessao.2020.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSacpw4Eba7zaAOTsl8OUaoD5zNAWsg2ourcg&usqp=CAU" group-title="terror",Voce Deveria Ter Partido
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/VoceDeveriaTerPartido.2021.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLf0vr5yX4h6moiMPXyIg7AiwYK5MYvIObCg&usqp=CAU" group-title="terror",A Sentinela
+http://bucket02.s3.us-central-1.wasabisys.com/cdnespecial4/ASentinela.2021.mp4
